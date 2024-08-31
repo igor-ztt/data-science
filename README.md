@@ -11,6 +11,8 @@
 </p>
 </div>
 
+Timeline: [OSSU DATA SCIENCE Timeline](https://docs.google.com/spreadsheets/d/1yh5qotiXbho8ElypWbKBpMS5SigCw-maXxmn_z1N6vk/edit?usp=sharing)
+
 ## Contents
 
 - [About](#about)
